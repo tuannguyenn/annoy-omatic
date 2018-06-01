@@ -1,4 +1,4 @@
-###Annoy-omatic
+### Annoy-omatic
 Create your own index.html
 
 Ask the user "Are we there yet"
